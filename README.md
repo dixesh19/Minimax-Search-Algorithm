@@ -1,5 +1,5 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:  DINESH RS</h3>
+<h3>Name:  DINESH R</h3>
 <h3>Register Number: 212224240037 </h3>
 <H3>Aim:</H3>
 <p>
